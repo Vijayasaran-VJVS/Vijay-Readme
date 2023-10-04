@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vijayasaran-VJVS/Vijayasaran-VJVS/output/snake.svg" alt="Snake animation" />
+<p>Follow my other profiles too...</p>
 
 ###
